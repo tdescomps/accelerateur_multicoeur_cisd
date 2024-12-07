@@ -1,0 +1,1 @@
+"__attribute__((noinline))" devant certaines fonctions n'est là que pour éviter les optimisations de compilateurs qui effaceraient la fonction dans le compilateur.
